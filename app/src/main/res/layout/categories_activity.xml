@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+<!--    <TextView-->
+<!--        android:id="@+id/quotesCatagories"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="@dimen/_10sdp"-->
+<!--        android:gravity="center"-->
+<!--        android:text="QuotesCatagories"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="@dimen/_15ssp"-->
+<!--        android:textStyle="bold" />-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_215sdp"
+            android:background="@drawable/round_cornner_bg">
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_210sdp">
+
+                <TextView
+                    android:id="@+id/quotestxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_180sdp"
+                    android:layout_marginHorizontal="@dimen/_10sdp"
+                    android:background="@drawable/quotes_bg"
+                    android:elevation="@dimen/_20sdp"
+                    android:fontFamily="@font/font_second"
+                    android:gravity="center"
+                    android:text="You always pass failure \n\non the way to success."
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_13ssp"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/likebtn"
+            android:layout_width="@dimen/_15sdp"
+            android:layout_height="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_190sdp"
+            android:src="@drawable/heart" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_45sdp"
+            android:layout_marginTop="@dimen/_188sdp"
+            android:text="Like"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/sharebtn"
+            android:layout_width="@dimen/_15sdp"
+            android:layout_height="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_85sdp"
+            android:layout_marginTop="@dimen/_190sdp"
+            android:src="@drawable/share_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_110sdp"
+            android:layout_marginTop="@dimen/_188sdp"
+            android:text="Share"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/copybtn"
+            android:layout_width="@dimen/_15sdp"
+            android:layout_height="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_160sdp"
+            android:layout_marginTop="@dimen/_190sdp"
+            android:src="@drawable/copy" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_180sdp"
+            android:layout_marginTop="@dimen/_190sdp"
+            android:text="Copy"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/savebtn"
+            android:layout_width="@dimen/_15sdp"
+            android:layout_height="@dimen/_15sdp"
+            android:layout_marginLeft="@dimen/_230sdp"
+            android:layout_marginTop="@dimen/_190sdp"
+            android:src="@drawable/save" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_250sdp"
+            android:layout_marginTop="@dimen/_190sdp"
+            android:text="Save"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/drawable/funny_.xml" value="0.1515" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/drawable/heart____.xml" value="0.1515" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/drawable/ic_left.xml" value="0.1515" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/drawable/my_but.xml" value="0.1515" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/drawable/round_background.xml" value="0.1515" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/activity_categories.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/activity_main.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/activity_quotes_page.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/categories.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/categories_activity.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/categories_main_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyQuotes/app/src/main/res/layout/quotes_page.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
